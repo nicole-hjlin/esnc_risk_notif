@@ -1,6 +1,6 @@
 # ESNC Risk Notification Emailer System 
 
-This repository contains code to generate and send emails to at-risk facilities determined by a machine learning model. Before this point, we would have to run the machine learning model first. The machine learning model is housed in this [repo](https://github.com/reglab/epa_risk/tree/master) and described in this [confluence page](https://asconfluence.stanford.edu/confluence/display/REGLAB/Data+Pipeline). 
+This repository contains code to generate and send emails to at-risk facilities determined by a machine learning model (with sensitive data and email templates removed). Before this point, we would have to run the machine learning model first. The machine learning model is housed in this [repo](https://github.com/reglab/epa_risk/tree/master) and described in this [confluence page](https://asconfluence.stanford.edu/confluence/display/REGLAB/Data+Pipeline). Note that access is restricted due to data sharing agreement. 
 
 For general project description and FAQ see this [google doc](https://docs.google.com/document/d/1mx-i_0a2KY4X6nqxCA9HUQUhB53JAGU0qylhMt8-Bwk/edit). For all other project related documentation see this [Confluence page](https://asconfluence.stanford.edu/confluence/display/REGLAB/ESNC+Risk+Notification+Intervention). 
 
